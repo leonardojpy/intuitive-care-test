@@ -12,5 +12,4 @@ public class ZipDownloaderTest {
 
         System.out.println("Download realizado? " + success);
     }
-
 }
